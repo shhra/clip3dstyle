@@ -1,0 +1,8 @@
+test.py
+test.sh
+__pycache__/*
+*.so
+*.py[cod]
+*.egg
+*.org
+
